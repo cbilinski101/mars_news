@@ -1,3 +1,5 @@
+[![Static Badge](https://img.shields.io/badge/Python-3.10.0-blue?link=left%2Fhttps%3A%2F%2Fwww.python.org%2Fdownloads%2Frelease%2Fpython-3100%2F)](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blue)
+
 # Mars Exploration Project
 
 Welcome to the Mars Exploration Project repository! This project includes two primary components: `Mars News` and `Mars Weather`. Below is an overview of the files and their functionalities.
