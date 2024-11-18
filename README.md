@@ -102,7 +102,7 @@ This project is licensed under the MIT License.
 This project was developed with the assistance of the following resources:
 
 - **Turtoring Session** – Provided guidance on data analysis and README formatting.
-- **Xpert Learning Assistant** – Provided guidance on SQLAlchemy and data analysis.
+- **Xpert Learning Assistant** – Provided guidance on and data analysis.
 - **GitLab UofT Activities** – Supplied foundational activities and exercises for analysis.
 - **ChatGPT** – Assisted with code, explanations, and README formatting. 
 
