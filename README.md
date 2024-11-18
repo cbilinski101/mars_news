@@ -36,20 +36,20 @@ The Mars Exploration Project is designed to provide insights into Mars-related n
 - Martian temperatures are extremely cold, with slight variations across months.
 - The eighth month is the warmest, with an average minimum temperature of -68°C.
   
-![image](https://github.com/user-attachments/assets/f09096bf-53e0-4dae-b5df-78278582fe85)
+
 
 
 ### Atmospheric Pressure
 - Atmospheric pressure peaks in the ninth month and is lowest during the fifth and sixth months.
 - Pressure correlates with temperature, increasing during warmer months.
   
-![image](https://github.com/user-attachments/assets/977afde0-ba43-47f5-9023-766682a0a1e9)
+
 
 
 ### Martian Year Length
 - A visual analysis of temperature patterns suggests a Martian year lasts approximately 700 Earth days.
   
-![image](https://github.com/user-attachments/assets/0148aea4-6f6e-4208-9988-6729cf1269e5)
+
 
 ---
 
