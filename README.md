@@ -64,18 +64,12 @@ The Mars Exploration Project is designed to provide insights into Mars-related n
 
 1. **Clone the Repository**
    ```bash
-   bash
-
    git clone https://github.com/cbilinski101/mars_news.git
 2. **Install Required Libraries Ensure you have Python installed. Then, install the dependencies:**
    ```bash
-   bash
-
    pip install -r requirements.txt
 3. **Run Jupyter Notebooks Open the .ipynb files in Jupyter Notebook or Jupyter Lab:**
    ```bash
-   bash
-
    jupyter notebook
 4. **Explore the Outputs**
   * Run the cells in each notebook sequentially to see the outputs.
