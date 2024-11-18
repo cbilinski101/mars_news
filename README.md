@@ -1,4 +1,9 @@
-[![Static Badge](https://img.shields.io/badge/Python-3.10.0-blue?link=left%2Fhttps%3A%2F%2Fwww.python.org%2Fdownloads%2Frelease%2Fpython-3100%2F)](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blue)
+[![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://docs.python.org/3.10/)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-notebook-orange.svg)](https://jupyter.org/)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-library-brightgreen)](https://www.crummy.com/software/BeautifulSoup/)
+[![Requests](https://img.shields.io/badge/Requests-library-blue)](https://docs.python-requests.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-library-yellow)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-library-orange)](https://matplotlib.org/)
 
 # Mars Exploration Project
 
@@ -43,7 +48,7 @@ The Mars Exploration Project is designed to provide insights into Mars-related n
 
 ### Martian Year Length
 - A visual analysis of temperature patterns suggests a Martian year lasts approximately 700 Earth days.
-- 
+  
 ![image](https://github.com/user-attachments/assets/0148aea4-6f6e-4208-9988-6729cf1269e5)
 
 ---
