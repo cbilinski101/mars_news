@@ -101,8 +101,8 @@ This project is licensed under the MIT License.
 
 This project was developed with the assistance of the following resources:
 
-- ** "U of T" (Turtoring Session - Xpert Learning Assistant - GitLab Activites) ** – Provided guidance on code and explanations.
-- ** ChatGPT ** – Assisted with code, explanations, and README formatting. 
+- **"U of T" (Turtoring Session - Xpert Learning Assistant - GitLab Activites)** – Provided guidance on code and explanations.
+- **ChatGPT** – Assisted with code, explanations, and README formatting. 
 
 ---
 
